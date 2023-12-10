@@ -1,4 +1,4 @@
-# c-projrct
+# c++-projrct
 #include <iostream>
 #include <vector>
 #include <string>
